@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      p {
+        text-align: center;
+        color: red;
+      }
+      #para1 {
+        text-align: center;
+        color: red;
+      }
+      .center {
+        text-align: center;
+        color: red;
+      }
+      p.center {
+        text-align: center;
+        color: red;
+      }
+      * {
+        text-align: center;
+        color: blue;
+      }
+      h1 {
+        text-align: center;
+        color: red;
+      }
+
+      h2 {
+        text-align: center;
+        color: red;
+      }
+
+      p {
+        text-align: center;
+        color: red;
+      }
+      h1,
+      h2,
+      p {
+        text-align: center;
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <p class="center large">This paragraph refers to two classes.</p>
+    <p>Every paragraph will be affected by the style.</p>
+    <p id="para1">Me too!</p>
+    <p>And me!</p>
+  </body>
+</html>

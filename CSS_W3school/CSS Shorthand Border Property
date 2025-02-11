@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      p {
+        border: 5px solid red;
+      }
+      p {
+        border-left: 6px solid red;
+      }
+      p {
+        border-bottom: 6px solid red;
+      }
+    </style>
+  </head>
+  <body>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <h2>The border Property</h2>
+
+    <p>
+      This property is a shorthand property for border-width, border-style, and
+      border-color.
+    </p>
+  </body>
+</html>

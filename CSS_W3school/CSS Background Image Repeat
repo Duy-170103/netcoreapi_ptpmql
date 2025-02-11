@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        background-image: url("gradient_bg.png");
+      }
+      body {
+        background-image: url("gradient_bg.png");
+        background-repeat: repeat-x;
+      }
+      body {
+        background-image: url("img_tree.png");
+        background-repeat: no-repeat;
+      }
+      body {
+        background-image: url("img_tree.png");
+        background-repeat: no-repeat;
+        background-position: right top;
+      }
+    </style>
+  </head>
+  <body>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <p>nguyenducduy-2121051204</p>
+    <h1>Hello World!</h1>
+    <p>Strange background image...</p>
+  </body>
+</html>
