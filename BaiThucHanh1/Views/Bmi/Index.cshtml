@@ -1,0 +1,20 @@
+@model BaiThucHanh1.Models.Bmi
+
+<h1>Dữ liệu từ Controller gửi về là: @ViewBag.infoPerson</h1>
+
+<form asp-action="Index" method="post">
+    <label>Nhập Cân nặng (kg):</label>
+    <input type="number" name="CanNang" required />
+    <br />
+
+    <label>Nhập Chiều cao (cm):</label>
+    <input type="number" name="ChieuCao" required />
+    <br />
+
+    <input type="submit" value="Tính BMI">
+</form>
+
+@if (ViewBag.BMI != null)
+{
+    <h2>@ViewBag.BMI</h2>
+}
