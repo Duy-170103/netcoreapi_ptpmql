@@ -139,7 +139,7 @@ namespace MvcMovie.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool PersonExists(int id) // Chuyển kiểu dữ liệu về int
+        private bool PersonExists(int id) 
         {
             return _context.Person?.Any(e => e.PersonId == id) ?? false;
         }
