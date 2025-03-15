@@ -8,7 +8,7 @@ namespace MvcMovie.Models
     {
         [Key]
         public int PersonId { get; set; }
-        public string? FullName { get; set; }
-        public string? Address { get; set; }
+        public string FullName { get; set; }
+        public string Address { get; set; }
     }
 }

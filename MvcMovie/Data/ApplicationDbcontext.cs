@@ -10,5 +10,6 @@ namespace MvcMovie.Data
         }
 
         public DbSet<Person> Person { get; set; }  
+        public DbSet<MvcMovie.Models.Employee> Employee { get; set; } = default!;
     }
 }

@@ -8007,7 +8007,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\duy08\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -8015,11 +8015,11 @@
       "projectUniqueName": "D:\\netcoreAPI\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
       "projectPath": "D:\\netcoreAPI\\MvcMovie\\MvcMovie.csproj",
-      "packagesPath": "C:\\Users\\duy08\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "D:\\netcoreAPI\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\duy08\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
